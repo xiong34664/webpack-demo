@@ -1,0 +1,10 @@
+$color:rgb(124, 230, 238);
+
+.box{
+    background: $color;
+    width: 200px;
+    height: 200px;
+    background-image: url(../images/123.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
